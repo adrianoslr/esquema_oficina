@@ -89,15 +89,5 @@ Este projeto apresenta um esquema conceitual para um sistema de controle e geren
 - Equipes realizam serviços nas ordens de serviço.
 - Cada equipe é composta por mecânicos.
 
-## Diagrama Conceitual
-Veja o diagrama abaixo ou [clique aqui para editar no Lucidchart](https://mlai.lucid.app/plugin/edit/aiplugin_a306a58e-fb4b-44c0-931d-d35f30978367).
 
-![Diagrama Conceitual](https://mlai.lucid.app/plugin/images/aiplugin_a306a58e-fb4b-44c0-931d-d35f30978367)
-
----
-
-### Próximos Passos
-1. Adicionar o esquema lógico baseado no conceitual.
-2. Implementar o banco de dados usando uma tecnologia de sua escolha.
-3. Testar as consultas e operações no banco.
 
